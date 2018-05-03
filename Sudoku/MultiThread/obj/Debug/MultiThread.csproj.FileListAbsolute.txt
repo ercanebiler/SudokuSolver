@@ -1,0 +1,12 @@
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\bin\Debug\MultiThread.exe.config
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\bin\Debug\MultiThread.exe
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\bin\Debug\MultiThread.pdb
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.Form1.resources
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.Properties.Resources.resources
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.csproj.GenerateResource.Cache
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.exe
+C:\Users\Gökhan\Documents\Visual Studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.pdb
+C:\Users\Gökhan\documents\visual studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.Form2.resources
+C:\Users\Gökhan\documents\visual studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.Form3.resources
+C:\Users\Gökhan\documents\visual studio 2017\Projects\MultiThread\MultiThread\obj\Debug\MultiThread.Form4.resources
